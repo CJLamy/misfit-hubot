@@ -1,1 +1,1 @@
-web: bin/hubot -a Misfits
+web: bin/hubot -a hipchat
